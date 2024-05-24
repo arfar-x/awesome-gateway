@@ -1,0 +1,3 @@
+[submodule "awesome-auth"]
+	path = awesome-auth
+	url = https://github.com/arfar-x/awesome-auth
