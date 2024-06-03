@@ -21,7 +21,7 @@ func main() {
 		})
 	})
 
-	err := r.Run("0.0.0.0:9092")
+	err := r.Run("content-service:80")
 	if err != nil {
 		return
 	}
